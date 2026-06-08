@@ -1,14 +1,20 @@
-# ai-annotation-quality-audit
-A quality assurance framework for auditing AI training data and annotations, focusing on consistency, bias detection, and dataset reliability for model improvement.
+# 📊 Student Performance Analytics
 
 ## Overview
-Framework for auditing annotation quality in AI training datasets.
+This project analyzes student performance using Python and data visualization techniques.
 
-## Key Checks
-- Label consistency
-- Missing annotations
-- Bias detection
-- Edge case coverage
+## Tools Used
+- Python (Pandas, Matplotlib)
+- Jupyter Notebook
 
-## Goal
-Improve dataset reliability for model training.
+## Key Features
+- Data cleaning and transformation
+- Statistical analysis
+- Visual insights
+
+## Sample Visuals
+![Distribution](visuals/score_distribution.png)
+![Performance](visuals/performance_by_category.png)
+
+## Insights
+See insights.md for full analysis.
